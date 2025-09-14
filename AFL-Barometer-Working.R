@@ -1,7 +1,7 @@
 # Who is Your Club's Barometer? 
 # I.e., who, when they play better than average, is correlated with your 
 # team winning
-# Joel Fernando, 2024
+# Joel Fernando, 2025
 
 # Thoughts: 
 # Should try add some more control variables this time e.g. Finals vs Regular Season, 
